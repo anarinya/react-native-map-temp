@@ -1,0 +1,4 @@
+node_modules/**/*
+.expo/*
+config/config.js
+npm-debug.*
